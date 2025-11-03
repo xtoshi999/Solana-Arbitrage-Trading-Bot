@@ -1,4 +1,4 @@
-# Solana Arbitrage Bot — Real World-result, Evidence-Backed ⚡ 
+# Solana Arbitrage Bot — Real World-Result, Evidence-Backed ⚡ 
 
 ## 🧭 Executive Summary
 
