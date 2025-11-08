@@ -1,4 +1,4 @@
-# Solana Arbitrage Bot — Production-Grade, Evidence-Backed ⚡ 
+# Solana Arbitrage Bot — Real World-Result, Evidence-Backed ⚡ 
 
 [![Star this repo](https://img.shields.io/github/stars/xtoshi999/Solana-Arbitrage-Trading-Bot.svg?style=social&label=Star)](https://github.com/xtoshi999/Solana-Arbitrage-Trading-Bot)
 [![Watch this repo](https://img.shields.io/github/watchers/xtoshi999/Solana-Arbitrage-Trading-Bot.svg?style=social&label=Watch)](https://github.com/xtoshi999/Solana-Arbitrage-Trading-Bot)
