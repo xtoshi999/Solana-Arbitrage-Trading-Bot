@@ -1,5 +1,10 @@
 # Solana Arbitrage Bot — Production-Grade, Evidence-Backed ⚡ 
 
+[![Star this repo](https://img.shields.io/github/stars/xtoshi999/Solana-Arbitrage-Trading-Bot.svg?style=social&label=Star)](https://github.com/xtoshi999/Solana-Arbitrage-Trading-Bot)
+[![Watch this repo](https://img.shields.io/github/watchers/xtoshi999/Solana-Arbitrage-Trading-Bot.svg?style=social&label=Watch)](https://github.com/xtoshi999/Solana-Arbitrage-Trading-Bot)
+
+> ⭐ **Star this repo if you find it useful!** It helps others discover the project and motivates continued development.
+
 ## 🧭 Executive Summary
 
 This project presents a production-grade arbitrage bot operating on Solana with multi-DEX coverage across Raydium (AMM, CLMM, CPMM), Pumpfun, Meteora, and additional venues. It continuously monitors price discrepancies and, when pre-trade checks confirm positive edge within configured risk limits, submits low-latency transactions to capture opportunities. The repository demonstrates evidence of live execution via video, screenshots, and on-chain explorer links. The full trading system is private and offered as a paid deployment with support.
