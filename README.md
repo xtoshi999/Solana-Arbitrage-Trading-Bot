@@ -96,6 +96,18 @@ Note: The production trading code is private. This repository is intended to sha
 To discuss scope, timelines, and pricing, please reach out via the contact options below.
 
 ---
+## Trading Parameters
+
+The bot uses the following default parameters (configurable in `index.ts`):
+
+Minimum to run: 5 SOL (testing only)
+
+Recommended for live trading: 10 – 30 SOL
+- **Trade Size per attempt**: 0.1 ~ 0.4 SOL
+- **Jito Tip Fee**: 0.0001 SOL per bundle
+- **Slippage**: 5% (for Pumpfun trades)
+- **Priority Fee**: 0.00001 SOL (for Pumpfun trades)
+- **Check Interval**: 3 seconds between profit checks
 
 ## 🛡️ Security, Risk Management, and Limitations
 
