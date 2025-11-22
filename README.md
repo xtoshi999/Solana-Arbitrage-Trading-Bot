@@ -60,7 +60,7 @@ This project presents a production-grade arbitrage bot operating on Solana with 
 
 ### 🔒 Private Repo Confirmation
 
-<img width="1368" height="687" alt="Image" src="https://github.com/user-attachments/assets/25249cc8-1599-45f4-abfb-1ba3c145d8eb" />
+<!-- <img width="1368" height="687" alt="Image" src="https://github.com/user-attachments/assets/25249cc8-1599-45f4-abfb-1ba3c145d8eb" /> -->
 
 ---
 
