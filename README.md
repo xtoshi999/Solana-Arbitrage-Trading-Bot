@@ -141,4 +141,3 @@ Recommended for live trading: 10 – 30 SOL
 Have questions or want a live walkthrough?
 
 - Telegram: [@xtoshi999](https://t.me/xtoshi999)
-- WhatsApp: +1 (945) 392-9998
